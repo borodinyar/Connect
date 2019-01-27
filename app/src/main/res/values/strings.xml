@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Connect</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Borodinyar</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="ideas_feed">Лента идей</string>
+    <string name="profile">Профиль</string>
+    <string name="add_idea">Добавить идею</string>
+    <string name="my_project">Мои идеи</string>
+    <string name="chosen">Избранные</string>
+    <string name="exit">Выход</string>
+</resources>
